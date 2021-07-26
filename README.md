@@ -26,3 +26,5 @@ https://git-scm.com/downloads
 
 
 # Ignore if mutiple links of same content uploaded.
+
+# [Note: The size of the file is big. It is recommended to download the files and view it in Jupyter Notebook.]
