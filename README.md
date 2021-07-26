@@ -25,4 +25,4 @@ https://git-scm.com/downloads
 
 
 
-#Ignore if mutiple links of same content uploaded.
+# Ignore if mutiple links of same content uploaded.
